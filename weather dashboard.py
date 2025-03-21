@@ -94,7 +94,6 @@ if data and "list" in data:
 else:
     st.error("⚠️ City not found! Please enter a valid city name.")
 
-    #To install
-    #pip install streamlit
+    
     #To run
     #streamlit run "c:/Users/bharg/OneDrive/Desktop/1245/weather dashboard.py"              
